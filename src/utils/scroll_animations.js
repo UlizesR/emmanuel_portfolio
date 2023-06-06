@@ -1,4 +1,4 @@
-
+// Scrolling animations for the About Section
 export function scroll_animation_1(tl, room, camera, chair) {
     tl.to(room.current.position, {
       x: -1.5,
