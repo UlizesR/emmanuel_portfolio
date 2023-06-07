@@ -10,7 +10,6 @@ const Hero = () => {
           <h1 className='text-5xl text-white font-bold'>
             Hello, I'm <span className='text-blue-500'>eMMANUEL</span>
           </h1>
-          {/* <div className='mt-5 bg-no-repeat bg-center bg-cover bg-photo h-1/3 w-1/2'/> */}
           <h2 className='text-2xl text-white font-bold mt-5'>
             Music Producer - DJ
           </h2>

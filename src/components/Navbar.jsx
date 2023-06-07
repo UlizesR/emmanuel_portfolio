@@ -6,8 +6,6 @@ import { SiMusicbrainz } from 'react-icons/si'
 import { SlMusicToneAlt, SlHome } from 'react-icons/sl'
 import gsap from 'gsap'
 
-import '../styles/global.modules.css'
-
 const Navbar = () => {
 
     const tl = gsap.timeline()
